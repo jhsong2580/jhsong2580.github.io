@@ -94,7 +94,7 @@ analytics:
   provider               : "google-gtag"
   google:
     tracking_id          :
-    stream_id : "5879960302"
+    stream_id : "G-Z7QRG0D7Q8"
     anonymize_ip         : # true, false (default)
     measurement_id : "G-Z7QRG0D7Q8"
 
