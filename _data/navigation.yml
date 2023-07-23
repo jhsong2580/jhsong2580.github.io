@@ -12,3 +12,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+docs:
+  - title: Book
+    children:
+      - title: "아파치 카프카 애플리케이션 프로그래밍"
+        url: book/_kafka_application_programing
+        category: "kafka_application_programing"
