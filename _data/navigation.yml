@@ -1,22 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "External Link"
-    url: https://google.com
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Category"
+    url: "/categories/"
 
 
 docs:
   - title: Book
     children:
       - title: "아파치 카프카 애플리케이션 프로그래밍"
-        url: book/_kafka_application_programing
+        url: /book/_kafka-application-programing
         category: "kafka_application_programing"
