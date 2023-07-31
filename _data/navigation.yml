@@ -10,3 +10,6 @@ docs:
       - title: "아파치 카프카 애플리케이션 프로그래밍"
         url: /book/_kafka-application-programing
         category: "kafka_application_programing"
+      - title: "이펙티브 자바"
+        url: /book/_effective_java
+        category: "effective_java"
